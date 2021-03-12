@@ -1,6 +1,5 @@
-esto es una prueba
+nuevos cambios 
+para probar todos los cambios
 
-para usar control de versiones
-en git
-
-y ahora hago un cambio mas
+que hemos hecho hasta ahora
+y se ve bien
