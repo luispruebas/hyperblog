@@ -4,3 +4,6 @@ para usar control de versiones
 en git
 
 Mañana nos enfocaremos en trabajar
+
+me toca ir a la fabrica
+trabajo de mañana
