@@ -1,7 +1,6 @@
-nuevos cambios 
-para probar todos los cambios
+esto es una prueba
 
-que hemos hecho hasta ahora
-y se ve bien
+para usar control de versiones
+en git
 
-parece que este va a ser un curso interesante
+Mañana nos enfocaremos en trabajar
