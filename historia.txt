@@ -1,0 +1,10 @@
+esto es una prueba
+
+para usar control de versiones
+en git
+
+Mañana nos enfocaremos en trabajar
+
+Luis es una persona que contribuye a este proyecto open source.
+
+Ahora hay un nuevo colaborador y me llamo Luis
