@@ -5,7 +5,6 @@ en git
 
 Mañana nos enfocaremos en trabajar
 
-me toca ir a la fabrica
-trabajo de mañana
+Luis es una persona que contribuye a este proyecto open source.
 
 Ahora hay un nuevo colaborador y me llamo Luis
